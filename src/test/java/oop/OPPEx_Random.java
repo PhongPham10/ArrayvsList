@@ -79,7 +79,7 @@ public class OPPEx_Random {
         }
 
 
-        //In Random
+        //In Random - Testing
         System.out.println("In ra List Sinh Viên");
         System.out.println();
 
